@@ -6,5 +6,5 @@
 - 📫 How to reach me: [Personal Website](https://manietadayon.com), [twitter- @manitadayon](https://twitter.com/manietadayon?lang=en)
 - ⚡ Fun fact: Play chess everyday, very much a cat lover.
 
-![Github stats](https://github-readme-stats-sigma-five-vercel.app/api?username=manitadayon)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=manitadayon)
 
